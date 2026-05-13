@@ -1,6 +1,5 @@
 // Coding error patterns (5x5)
 const ERROR_PATTERNS = [
-  {
     {
   name: "Null Pointer",
   pattern: [
