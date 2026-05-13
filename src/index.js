@@ -3,6 +3,7 @@ const COLS = 10;
 const ROWS = 20;
 const BLOCK_SIZE = 30;
 const PATTERN_SIZE = 5;
+// high score fix
 
 // Colors for blocks (dev-themed)
 const COLORS = {
