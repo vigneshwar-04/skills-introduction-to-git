@@ -1,5 +1,6 @@
 // Coding error patterns (5x5)
 const ERROR_PATTERNS = [
+<<<<<<< HEAD
     {
   name: "Null Pointer",
   pattern: [
@@ -10,6 +11,18 @@ const ERROR_PATTERNS = [
     [0, 0, 1, 0, 0],
   ],
 },
+=======
+  {
+    name: "Null Pointer",
+    pattern: [
+      [1, 1, 1, 1, 1],
+      [1, 0, 0, 0, 1],
+      [1, 0, 1, 0, 1],
+      [1, 0, 0, 0, 1],
+      [1, 1, 1, 1, 1],
+    ],
+  },
+>>>>>>> f6bdb13d7eb7e0143ea0f2c05bd6389457313069
   {
     name: "Memory Leak",
     pattern: [
